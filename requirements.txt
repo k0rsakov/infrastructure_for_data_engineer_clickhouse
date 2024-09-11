@@ -1,0 +1,2 @@
+clickhouse-connect==0.7.19
+pandas==2.2.2
