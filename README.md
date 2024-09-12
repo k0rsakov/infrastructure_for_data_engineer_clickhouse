@@ -1,6 +1,6 @@
 # Инфраструктура для Data-Engineer ClickHouse
 
-Статья на [habr](https://habr.com/ru/articles/00000000/)
+Статья на [habr](https://habr.com/ru/articles/842818/)
 
 Для того чтобы создать виртуальное окружение для работы с ClickHouse выполните команду:
 
